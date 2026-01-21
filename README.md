@@ -57,7 +57,7 @@
 نحن نلتزم بأعلى معايير الأمان. نظرًا لأن الأداة تعدل في ملفات النظام، قد تشتبه بها بعض برامج الحماية خطأً، لكننا نفحص كل إصدار للتأكد من سلامته.
 
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/S7TN/StLh-TiTAN-TWEAK/releases/latest">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/VirusTotal_logo.svg" alt="Check VirusTotal Scan" width="150">
   </a>
   <br>
@@ -70,7 +70,7 @@
 
 ## 📥 طريقة التحميل (Download)
 
-1. اذهب إلى قسم **Releases** في يمين الصفحة.
+1. اذهب إلى قسم **[Releases](https://github.com/S7TN/StLh-TiTAN-TWEAK/releases/latest)** في يمين الصفحة.
 2. حمل الملف المسمى: **`StLh.TiTAN.TWEAK.SeTUP.exe`**
 3. شغله كمسؤول **(Run as Administrator)**، واستمتع بأقصى أداء لجهازك.
 
@@ -80,7 +80,7 @@
 
 ### 👤 المطور (Developer)
 
-**Developed with ❤️ by S7TO (سطو)**
+**Developed with ❤️ by StLh (S7TN)**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=S7TN&label=Profile%20Views&color=red&style=flat)
 
